@@ -29,4 +29,4 @@ ItsTheDarky@protonmail.com (Work Email)
 - Anyone who sends trash messages or spam will be blocked and your email will be shown on the Trash Emails Page.
 
 # Visit the site
-(DonoCoin)[https://darky-github.github.io/DonoCoin/]
+[DonoCoin](https://darky-github.github.io/DonoCoin/)
